@@ -1,16 +1,24 @@
-### Hi there 👋
+# 😀 Hey, Welcome to my Github Page
 
-<!--
-**pri1311/pri1311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[View My Portfolio](https://pri1311.github.io/portfolio/)
 
-Here are some ideas to get you started:
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=pri1311&show_icons=true&include_all_commits=true&theme=ayu-mirage" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pri1311&layout=compact&theme=ayu-mirage" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
+## 😁 Who am I?
+My name is **Priya Nagda**, pursuing Bachelor's in Computer Engineering at VJTI, 23'.
+
+## 👨‍💻 Passionate about?
+**CODING!!**<br>
+
+## ✨ Skills
+* Javascript(Web Dev/NodeJs/ExpressJs)
+* Dart/Kotlin (Flutter/Android)
+* Python (Flask)
+* C++ (Competitive Coding) <br>
+etc...
+
+## 📞 Contact Me
+* Email Id: nagdapriya13@gmail.com
