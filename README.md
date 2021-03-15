@@ -11,13 +11,14 @@
 ## 😁 Who am I?
 My name is **Priya Nagda**, pursuing Bachelor's in Computer Engineering at VJTI, 23'.
 
-## 👨‍💻 Passionate about?
-**CODING!!**<br>
+## 👨‍💻 Projects?
+****<br>
 
 ## ✨ Skills
 * Javascript(Web Dev/NodeJs/ExpressJs)
 * Dart/Kotlin (Flutter/Android)
 * Python (Flask)
+* PHP
 * C++ (Competitive Coding) <br>
 etc...
 
