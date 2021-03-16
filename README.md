@@ -10,6 +10,7 @@
 
 ## 😁 Who am I?
 My name is **Priya Nagda**, pursuing Bachelor's in Computer Engineering at VJTI, 23'.
+* Currently a particpant in Cross Winter of Code.
 
 ## 👨‍💻 Projects?
 ****<br>
