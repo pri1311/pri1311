@@ -10,7 +10,8 @@
 
 ## 😁 Who am I?
 My name is **Priya Nagda**, pursuing Bachelor's in Computer Engineering at VJTI, 23'.
-* Currently a particpant at Cross Winter of Code and Girl Script Summer Of Code.
+* Participated in Cross Winter of Code.
+* Currently a particpant at Girl Script Summer Of Code.
 
 ## 👨‍💻 Projects?
 * [Real-time chat application like slack/discord](https://github.com/pri1311/xyz-website)
