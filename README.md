@@ -8,7 +8,7 @@
 <br>
 
 ## 😁 Who am I?
-My name is **Priya Nagda**, pursuing Bachelor's in Computer Engineering at VJTI, 23'. Summer Intern at Imumz.
+My name is **Priya Nagda**, pursuing Bachelor's in Computer Engineering at VJTI, 23'. Summer Intern at iMumz.
 * Participated in Cross Winter of Code.
 * Participated in Girl Script Summer Of Code.
 
