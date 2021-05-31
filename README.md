@@ -8,7 +8,7 @@
 <br>
 
 ## 😁 Who am I?
-My name is **Priya Nagda**, pursuing Bachelor's in Computer Engineering at VJTI, 23'.
+My name is **Priya Nagda**, pursuing Bachelor's in Computer Engineering at VJTI, 23'. Summer Intern at Imumz.
 * Participated in Cross Winter of Code.
 * Participated in Girl Script Summer Of Code.
 
@@ -16,7 +16,6 @@ My name is **Priya Nagda**, pursuing Bachelor's in Computer Engineering at VJTI,
 * [Real-time chat application where you can create workspaces and channels](https://github.com/pri1311/crunch)
 * [Flutter app to help users lead a greener life](https://github.com/pri1311/SyntaxError-Hackbash)
 * [Flutter app to help farmers easily locate resource centres,get news,etc.](https://github.com/pri1311/KhetiBaadi)
-<br>
 
 ## ✨ Skills
 * Javascript(Web Dev/NodeJs/ExpressJs)
