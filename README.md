@@ -2,6 +2,7 @@
 
 [View My Portfolio](https://pri1311.github.io/portfolio/)
 
+<img src="https://github.com/pri1311/stats/blob/master/generated/overview.svg">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=pri1311&theme=dracula" />
 <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=pri1311&layout=compact&theme=dracula&count_private=true&langs_count=10" />
 
