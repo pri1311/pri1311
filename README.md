@@ -1,4 +1,4 @@
-# Hey 👋, Welcome to my Github Page
+# Hey 👋, Welcome to my Github Page ![](https://komarev.com/ghpvc/?username=pri1311&color=green)
 
 [View My Portfolio](https://pri1311.github.io/portfolio/)
 
