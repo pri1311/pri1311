@@ -1,6 +1,6 @@
 # Hey 👋, Welcome to my Github Page ![](https://komarev.com/ghpvc/?username=pri1311&color=green)
 
-[View My Portfolio](https://pri1311.github.io/portfolio/)
+[View My Portfolio](https://priyanagda.in)
 
 - 🍀 Third Year BTech Computer Engineering student.
 - 👩‍💻 Currently working on [foco](https://github.com/pri1311/foco)
