@@ -13,6 +13,9 @@
 ✨ [Flutter app to help users lead a greener life](https://github.com/pri1311/SyntaxError-Hackbash)<br/>
 ✨ [Flutter app to help farmers easily locate resource centres,get news,etc.](https://github.com/pri1311/KhetiBaadi)<br/>
 
+## ⚡ Recent Activity
+<!--START_SECTION:activity-->
+
 
 ## ✨ Skills
 <img height = "80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg"></img>
