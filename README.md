@@ -15,11 +15,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#76](https://github.com/CommunityOfCoders/Inheritance-2021/pull/76) in [CommunityOfCoders/Inheritance-2021](https://github.com/CommunityOfCoders/Inheritance-2021)
-2. 🎉 Merged PR [#52](https://github.com/CommunityOfCoders/Inheritance-2021/pull/52) in [CommunityOfCoders/Inheritance-2021](https://github.com/CommunityOfCoders/Inheritance-2021)
-3. 🎉 Merged PR [#74](https://github.com/CommunityOfCoders/Inheritance-2021/pull/74) in [CommunityOfCoders/Inheritance-2021](https://github.com/CommunityOfCoders/Inheritance-2021)
-4. 🗣 Commented on [#56](https://github.com/CommunityOfCoders/Inheritance-2021/issues/56) in [CommunityOfCoders/Inheritance-2021](https://github.com/CommunityOfCoders/Inheritance-2021)
-5. 🎉 Merged PR [#73](https://github.com/CommunityOfCoders/Inheritance-2021/pull/73) in [CommunityOfCoders/Inheritance-2021](https://github.com/CommunityOfCoders/Inheritance-2021)
+1. 🎉 Merged PR [#84](https://github.com/CommunityOfCoders/Inheritance-2021/pull/84) in [CommunityOfCoders/Inheritance-2021](https://github.com/CommunityOfCoders/Inheritance-2021)
+2. 🎉 Merged PR [#76](https://github.com/CommunityOfCoders/Inheritance-2021/pull/76) in [CommunityOfCoders/Inheritance-2021](https://github.com/CommunityOfCoders/Inheritance-2021)
+3. 🎉 Merged PR [#52](https://github.com/CommunityOfCoders/Inheritance-2021/pull/52) in [CommunityOfCoders/Inheritance-2021](https://github.com/CommunityOfCoders/Inheritance-2021)
+4. 🎉 Merged PR [#74](https://github.com/CommunityOfCoders/Inheritance-2021/pull/74) in [CommunityOfCoders/Inheritance-2021](https://github.com/CommunityOfCoders/Inheritance-2021)
+5. 🗣 Commented on [#56](https://github.com/CommunityOfCoders/Inheritance-2021/issues/56) in [CommunityOfCoders/Inheritance-2021](https://github.com/CommunityOfCoders/Inheritance-2021)
 <!--END_SECTION:activity-->
 
 
