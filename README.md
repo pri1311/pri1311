@@ -4,9 +4,9 @@
 
 🍀 Third Year BTech Computer Engineering student.<br/>
 🌱 Currenly exploring Machine Learning<br/>
-💬 Ask me about Flutter(Android)<br/>
+💬 Ask me about Flutter(Android) and ReactJs<br/>
 📫 How to reach me **nagdapriya13@gmail.com**<br/>
-👩‍💼 Summer Intern at <a href="https://www.imumz.com/">iMumz</a><br/>
+👩‍💼 MLH Fellow Spring '22 (Open Source Track)
 
 ## 👨‍💻 Projects
 ✨ [Real-time chat application where you can create workspaces and channels](https://github.com/pri1311/crunch)<br/>
@@ -41,3 +41,4 @@
 <img height = "80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" />
 <img height = "80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg" />
 <img height = "80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" />
+<img height = "80px" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/typescript.svg" />
