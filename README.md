@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1575](https://github.com/weecology/retriever/issues/1575) in [weecology/retriever](https://github.com/weecology/retriever)
-2. 🗣 Commented on [#1575](https://github.com/weecology/retriever/issues/1575) in [weecology/retriever](https://github.com/weecology/retriever)
-3. 🗣 Commented on [#3583](https://github.com/huggingface/datasets/issues/3583) in [huggingface/datasets](https://github.com/huggingface/datasets)
-4. 🎉 Merged PR [#84](https://github.com/CommunityOfCoders/Inheritance-2021/pull/84) in [CommunityOfCoders/Inheritance-2021](https://github.com/CommunityOfCoders/Inheritance-2021)
-5. 🎉 Merged PR [#76](https://github.com/CommunityOfCoders/Inheritance-2021/pull/76) in [CommunityOfCoders/Inheritance-2021](https://github.com/CommunityOfCoders/Inheritance-2021)
+2. 💪 Opened PR [#1646](https://github.com/weecology/retriever/pull/1646) in [weecology/retriever](https://github.com/weecology/retriever)
+3. 🗣 Commented on [#1575](https://github.com/weecology/retriever/issues/1575) in [weecology/retriever](https://github.com/weecology/retriever)
+4. 🗣 Commented on [#1575](https://github.com/weecology/retriever/issues/1575) in [weecology/retriever](https://github.com/weecology/retriever)
+5. 🗣 Commented on [#3583](https://github.com/huggingface/datasets/issues/3583) in [huggingface/datasets](https://github.com/huggingface/datasets)
 <!--END_SECTION:activity-->
 
 
