@@ -15,11 +15,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3583](https://github.com/huggingface/datasets/issues/3583) in [huggingface/datasets](https://github.com/huggingface/datasets)
+1. 🗣 Commented on [#1575](https://github.com/weecology/retriever/issues/1575) in [weecology/retriever](https://github.com/weecology/retriever)
 2. 🗣 Commented on [#3583](https://github.com/huggingface/datasets/issues/3583) in [huggingface/datasets](https://github.com/huggingface/datasets)
-3. 🗣 Commented on [#6326](https://github.com/cupy/cupy/issues/6326) in [cupy/cupy](https://github.com/cupy/cupy)
-4. 🗣 Commented on [#1575](https://github.com/weecology/retriever/issues/1575) in [weecology/retriever](https://github.com/weecology/retriever)
-5. 💪 Opened PR [#1646](https://github.com/weecology/retriever/pull/1646) in [weecology/retriever](https://github.com/weecology/retriever)
+3. 🗣 Commented on [#3583](https://github.com/huggingface/datasets/issues/3583) in [huggingface/datasets](https://github.com/huggingface/datasets)
+4. 🗣 Commented on [#6326](https://github.com/cupy/cupy/issues/6326) in [cupy/cupy](https://github.com/cupy/cupy)
+5. 🗣 Commented on [#1575](https://github.com/weecology/retriever/issues/1575) in [weecology/retriever](https://github.com/weecology/retriever)
 <!--END_SECTION:activity-->
 
 
