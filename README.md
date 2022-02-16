@@ -15,11 +15,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1646](https://github.com/weecology/retriever/issues/1646) in [weecology/retriever](https://github.com/weecology/retriever)
-2. 🗣 Commented on [#1575](https://github.com/weecology/retriever/issues/1575) in [weecology/retriever](https://github.com/weecology/retriever)
-3. 🗣 Commented on [#3583](https://github.com/huggingface/datasets/issues/3583) in [huggingface/datasets](https://github.com/huggingface/datasets)
+1. 🗣 Commented on [#151](https://github.com/CommunityOfCoders/COCWebsite/issues/151) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+2. 🗣 Commented on [#1646](https://github.com/weecology/retriever/issues/1646) in [weecology/retriever](https://github.com/weecology/retriever)
+3. 🗣 Commented on [#1575](https://github.com/weecology/retriever/issues/1575) in [weecology/retriever](https://github.com/weecology/retriever)
 4. 🗣 Commented on [#3583](https://github.com/huggingface/datasets/issues/3583) in [huggingface/datasets](https://github.com/huggingface/datasets)
-5. 🗣 Commented on [#6326](https://github.com/cupy/cupy/issues/6326) in [cupy/cupy](https://github.com/cupy/cupy)
+5. 🗣 Commented on [#3583](https://github.com/huggingface/datasets/issues/3583) in [huggingface/datasets](https://github.com/huggingface/datasets)
 <!--END_SECTION:activity-->
 
 
