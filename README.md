@@ -16,10 +16,10 @@
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1646](https://github.com/weecology/retriever/issues/1646) in [weecology/retriever](https://github.com/weecology/retriever)
-2. 💪 Opened PR [#6475](https://github.com/cupy/cupy/pull/6475) in [cupy/cupy](https://github.com/cupy/cupy)
-3. 💪 Opened PR [#6474](https://github.com/cupy/cupy/pull/6474) in [cupy/cupy](https://github.com/cupy/cupy)
-4. 💪 Opened PR [#192](https://github.com/CommunityOfCoders/COCWebsite/pull/192) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-5. 🗣 Commented on [#151](https://github.com/CommunityOfCoders/COCWebsite/issues/151) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+2. 🗣 Commented on [#1646](https://github.com/weecology/retriever/issues/1646) in [weecology/retriever](https://github.com/weecology/retriever)
+3. 💪 Opened PR [#6475](https://github.com/cupy/cupy/pull/6475) in [cupy/cupy](https://github.com/cupy/cupy)
+4. 💪 Opened PR [#6474](https://github.com/cupy/cupy/pull/6474) in [cupy/cupy](https://github.com/cupy/cupy)
+5. 💪 Opened PR [#192](https://github.com/CommunityOfCoders/COCWebsite/pull/192) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
 <!--END_SECTION:activity-->
 
 
