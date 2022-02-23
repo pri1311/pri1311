@@ -15,11 +15,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#132](https://github.com/weecology/retriever-recipes/pull/132) in [weecology/retriever-recipes](https://github.com/weecology/retriever-recipes)
-2. 🗣 Commented on [#1646](https://github.com/weecology/retriever/issues/1646) in [weecology/retriever](https://github.com/weecology/retriever)
+1. 🗣 Commented on [#6475](https://github.com/cupy/cupy/issues/6475) in [cupy/cupy](https://github.com/cupy/cupy)
+2. 💪 Opened PR [#132](https://github.com/weecology/retriever-recipes/pull/132) in [weecology/retriever-recipes](https://github.com/weecology/retriever-recipes)
 3. 🗣 Commented on [#1646](https://github.com/weecology/retriever/issues/1646) in [weecology/retriever](https://github.com/weecology/retriever)
-4. 💪 Opened PR [#6475](https://github.com/cupy/cupy/pull/6475) in [cupy/cupy](https://github.com/cupy/cupy)
-5. 💪 Opened PR [#6474](https://github.com/cupy/cupy/pull/6474) in [cupy/cupy](https://github.com/cupy/cupy)
+4. 🗣 Commented on [#1646](https://github.com/weecology/retriever/issues/1646) in [weecology/retriever](https://github.com/weecology/retriever)
+5. 💪 Opened PR [#6475](https://github.com/cupy/cupy/pull/6475) in [cupy/cupy](https://github.com/cupy/cupy)
 <!--END_SECTION:activity-->
 
 
