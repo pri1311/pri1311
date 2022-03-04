@@ -3,9 +3,10 @@
 [View My Portfolio](https://priyanagda.in)
 
 🍀 Third Year BTech Computer Engineering student.<br/>
-🌱 Currenly exploring Machine Learning<br/>
-💬 Ask me about Flutter(Android) and ReactJs<br/>
-📫 How to reach me **nagdapriya13@gmail.com**<br/>
+💻 Currently working on [Semantic Segmentation - Drone Dataset](https://github.com/pri1311/Aerial-Semantic-Segmentation-Drone-Dataset)<br/>
+🌱 Exploring **Deep Learning** and **Data Science**<br/>
+💬 Ask me about Flutter(Android), ReactJs and Machine Learning<br/>
+📫 How to reach me? **nagdapriya13@gmail.com**<br/>
 👩‍💼 MLH Fellow Spring '22 (Open Source Track)
 
 ## 👨‍💻 Projects
