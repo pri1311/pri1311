@@ -9,10 +9,6 @@
 📫 How to reach me? **nagdapriya13@gmail.com**<br/>
 👩‍💼 MLH Fellow Spring '22 (Open Source Track)
 
-## 👨‍💻 Projects
-✨ [Real-time chat application where you can create workspaces and channels](https://github.com/pri1311/crunch)<br/>
-✨ [Flutter app to help users lead a greener life](https://github.com/pri1311/SyntaxError-Hackbash)<br/>
-✨ [Flutter app to help farmers easily locate resource centres,get news,etc.](https://github.com/pri1311/KhetiBaadi)<br/>
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
