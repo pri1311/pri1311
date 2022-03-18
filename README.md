@@ -12,11 +12,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2399](https://github.com/import-js/eslint-plugin-import/pull/2399) in [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
-2. 🗣 Commented on [#2396](https://github.com/import-js/eslint-plugin-import/issues/2396) in [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
-3. 🗣 Commented on [#71](https://github.com/ljharb/repo-report/issues/71) in [ljharb/repo-report](https://github.com/ljharb/repo-report)
-4. 🗣 Commented on [#2151](https://github.com/import-js/eslint-plugin-import/issues/2151) in [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
-5. 💪 Opened PR [#2396](https://github.com/import-js/eslint-plugin-import/pull/2396) in [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
+1. 🗣 Commented on [#2396](https://github.com/import-js/eslint-plugin-import/issues/2396) in [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
+2. 💪 Opened PR [#2399](https://github.com/import-js/eslint-plugin-import/pull/2399) in [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
+3. 🗣 Commented on [#2396](https://github.com/import-js/eslint-plugin-import/issues/2396) in [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
+4. 🗣 Commented on [#71](https://github.com/ljharb/repo-report/issues/71) in [ljharb/repo-report](https://github.com/ljharb/repo-report)
+5. 🗣 Commented on [#2151](https://github.com/import-js/eslint-plugin-import/issues/2151) in [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
 <!--END_SECTION:activity-->
 
 
