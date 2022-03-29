@@ -12,10 +12,10 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6582](https://github.com/cupy/cupy/issues/6582) in [cupy/cupy](https://github.com/cupy/cupy)
+1. 💪 Opened PR [#6597](https://github.com/cupy/cupy/pull/6597) in [cupy/cupy](https://github.com/cupy/cupy)
 2. 🗣 Commented on [#6582](https://github.com/cupy/cupy/issues/6582) in [cupy/cupy](https://github.com/cupy/cupy)
-3. 💪 Opened PR [#6582](https://github.com/cupy/cupy/pull/6582) in [cupy/cupy](https://github.com/cupy/cupy)
-4. 🗣 Commented on [#2399](https://github.com/import-js/eslint-plugin-import/issues/2399) in [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
+3. 🗣 Commented on [#6582](https://github.com/cupy/cupy/issues/6582) in [cupy/cupy](https://github.com/cupy/cupy)
+4. 💪 Opened PR [#6582](https://github.com/cupy/cupy/pull/6582) in [cupy/cupy](https://github.com/cupy/cupy)
 5. 🗣 Commented on [#2399](https://github.com/import-js/eslint-plugin-import/issues/2399) in [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
 <!--END_SECTION:activity-->
 
