@@ -12,11 +12,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6582](https://github.com/cupy/cupy/issues/6582) in [cupy/cupy](https://github.com/cupy/cupy)
-2. 🗣 Commented on [#6597](https://github.com/cupy/cupy/issues/6597) in [cupy/cupy](https://github.com/cupy/cupy)
-3. 🗣 Commented on [#6582](https://github.com/cupy/cupy/issues/6582) in [cupy/cupy](https://github.com/cupy/cupy)
-4. 🗣 Commented on [#2399](https://github.com/import-js/eslint-plugin-import/issues/2399) in [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
-5. 💪 Opened PR [#6597](https://github.com/cupy/cupy/pull/6597) in [cupy/cupy](https://github.com/cupy/cupy)
+1. ❗️ Opened issue [#206](https://github.com/CommunityOfCoders/COCWebsite/issues/206) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+2. 🗣 Commented on [#6582](https://github.com/cupy/cupy/issues/6582) in [cupy/cupy](https://github.com/cupy/cupy)
+3. 🗣 Commented on [#6597](https://github.com/cupy/cupy/issues/6597) in [cupy/cupy](https://github.com/cupy/cupy)
+4. 🗣 Commented on [#6582](https://github.com/cupy/cupy/issues/6582) in [cupy/cupy](https://github.com/cupy/cupy)
+5. 🗣 Commented on [#2399](https://github.com/import-js/eslint-plugin-import/issues/2399) in [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
 <!--END_SECTION:activity-->
 
 
