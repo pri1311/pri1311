@@ -13,10 +13,10 @@
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6582](https://github.com/cupy/cupy/issues/6582) in [cupy/cupy](https://github.com/cupy/cupy)
-2. ❗️ Opened issue [#206](https://github.com/CommunityOfCoders/COCWebsite/issues/206) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
-3. 🗣 Commented on [#6582](https://github.com/cupy/cupy/issues/6582) in [cupy/cupy](https://github.com/cupy/cupy)
-4. 🗣 Commented on [#6597](https://github.com/cupy/cupy/issues/6597) in [cupy/cupy](https://github.com/cupy/cupy)
-5. 🗣 Commented on [#6582](https://github.com/cupy/cupy/issues/6582) in [cupy/cupy](https://github.com/cupy/cupy)
+2. 🗣 Commented on [#6582](https://github.com/cupy/cupy/issues/6582) in [cupy/cupy](https://github.com/cupy/cupy)
+3. ❗️ Opened issue [#206](https://github.com/CommunityOfCoders/COCWebsite/issues/206) in [CommunityOfCoders/COCWebsite](https://github.com/CommunityOfCoders/COCWebsite)
+4. 🗣 Commented on [#6582](https://github.com/cupy/cupy/issues/6582) in [cupy/cupy](https://github.com/cupy/cupy)
+5. 🗣 Commented on [#6597](https://github.com/cupy/cupy/issues/6597) in [cupy/cupy](https://github.com/cupy/cupy)
 <!--END_SECTION:activity-->
 
 
