@@ -100,7 +100,7 @@
 
 
 <div>
-	<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pri1311&show_icons=true&locale=en" alt="pri1311" /></p>
+	<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pri1311&hide=prs,issues&count_private=true&show_icons=true&locale=en" alt="pri1311" /></p>
 	<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pri1311&" alt="pri1311" /></p>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pri1311&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,EJS" alt="pri1311" /></p>
 </div>
