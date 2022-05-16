@@ -25,7 +25,7 @@
 	  </a>
 	</div>
 	<div>
-	  <a href="https://kaggle.com/pri1311" target="blank">
+	  <a href="https://kaggle.com/priyanagda" target="blank">
 	    <img src='https://img.shields.io/badge/Kaggle-Competitions%20Contributor-20beff?style=for-the-badge&logo=kaggle'/>
 	  </a>
     <a href="https://priyanagda.in/" target="blank">
