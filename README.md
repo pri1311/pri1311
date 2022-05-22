@@ -37,8 +37,8 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17309](https://github.com/huggingface/transformers/issues/17309) in [huggingface/transformers](https://github.com/huggingface/transformers)
-2. 🗣 Commented on [#6582](https://github.com/cupy/cupy/issues/6582) in [cupy/cupy](https://github.com/cupy/cupy)
+1. 🗣 Commented on [#49882](https://github.com/pytorch/pytorch/issues/49882) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+2. ❗️ Opened issue [#17309](https://github.com/huggingface/transformers/issues/17309) in [huggingface/transformers](https://github.com/huggingface/transformers)
 3. 🗣 Commented on [#6582](https://github.com/cupy/cupy/issues/6582) in [cupy/cupy](https://github.com/cupy/cupy)
 4. 🗣 Commented on [#6582](https://github.com/cupy/cupy/issues/6582) in [cupy/cupy](https://github.com/cupy/cupy)
 5. 🗣 Commented on [#6582](https://github.com/cupy/cupy/issues/6582) in [cupy/cupy](https://github.com/cupy/cupy)
