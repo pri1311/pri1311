@@ -5,11 +5,13 @@
 
 - 🍀 Third Year BTech Computer Engineering student.<br/>  
   
-- 💻 Currently working on [UWM-GI-Tract-Image-Segmentation](https://github.com/pri1311/UWM-GI-Tract-Image-Segmentation)<br/>
+- ✨ Passionate about AI/ML in healthcare.<br/>
+	
+- 💻 Currently working on [UWM-GI-Tract-Image-Segmentation](https://github.com/pri1311/UWM-GI-Tract-Image-Segmentation).<br/>
 
-- 🌱  Exploring **Deep Learning** and **Data Science**<br/>
+- 🌱  Exploring **Deep Learning** and **Data Science**.<br/>
 
-- 💬 Ask me about Machine Learning, ReactJs and Flutter(Android)<br/>
+- 💬 Ask me about Machine Learning, ReactJs and Flutter(Android).<br/>
 
 - 📫 How to reach me? **nagdapriya13@gmail.com**<br/>
 
