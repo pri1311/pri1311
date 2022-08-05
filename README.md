@@ -39,11 +39,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6935](https://github.com/cupy/cupy/issues/6935) in [cupy/cupy](https://github.com/cupy/cupy)
-2. 💪 Opened PR [#6920](https://github.com/cupy/cupy/pull/6920) in [cupy/cupy](https://github.com/cupy/cupy)
-3. 🗣 Commented on [#6901](https://github.com/cupy/cupy/issues/6901) in [cupy/cupy](https://github.com/cupy/cupy)
-4. 🗣 Commented on [#17309](https://github.com/huggingface/transformers/issues/17309) in [huggingface/transformers](https://github.com/huggingface/transformers)
-5. 🗣 Commented on [#6582](https://github.com/cupy/cupy/issues/6582) in [cupy/cupy](https://github.com/cupy/cupy)
+1. 🗣 Commented on [#6229](https://github.com/cupy/cupy/issues/6229) in [cupy/cupy](https://github.com/cupy/cupy)
+2. 🗣 Commented on [#6935](https://github.com/cupy/cupy/issues/6935) in [cupy/cupy](https://github.com/cupy/cupy)
+3. 💪 Opened PR [#6920](https://github.com/cupy/cupy/pull/6920) in [cupy/cupy](https://github.com/cupy/cupy)
+4. 🗣 Commented on [#6901](https://github.com/cupy/cupy/issues/6901) in [cupy/cupy](https://github.com/cupy/cupy)
+5. 🗣 Commented on [#17309](https://github.com/huggingface/transformers/issues/17309) in [huggingface/transformers](https://github.com/huggingface/transformers)
 <!--END_SECTION:activity-->
 
 
