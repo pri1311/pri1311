@@ -39,11 +39,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6229](https://github.com/cupy/cupy/issues/6229) in [cupy/cupy](https://github.com/cupy/cupy)
-2. 🗣 Commented on [#6326](https://github.com/cupy/cupy/issues/6326) in [cupy/cupy](https://github.com/cupy/cupy)
+1. 💪 Opened PR [#7007](https://github.com/cupy/cupy/pull/7007) in [cupy/cupy](https://github.com/cupy/cupy)
+2. 🗣 Commented on [#6229](https://github.com/cupy/cupy/issues/6229) in [cupy/cupy](https://github.com/cupy/cupy)
 3. 🗣 Commented on [#6326](https://github.com/cupy/cupy/issues/6326) in [cupy/cupy](https://github.com/cupy/cupy)
-4. 🗣 Commented on [#6229](https://github.com/cupy/cupy/issues/6229) in [cupy/cupy](https://github.com/cupy/cupy)
-5. 🗣 Commented on [#6935](https://github.com/cupy/cupy/issues/6935) in [cupy/cupy](https://github.com/cupy/cupy)
+4. 🗣 Commented on [#6326](https://github.com/cupy/cupy/issues/6326) in [cupy/cupy](https://github.com/cupy/cupy)
+5. 🗣 Commented on [#6229](https://github.com/cupy/cupy/issues/6229) in [cupy/cupy](https://github.com/cupy/cupy)
 <!--END_SECTION:activity-->
 
 
