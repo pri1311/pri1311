@@ -39,10 +39,10 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/CommunityOfCoders/Inheritance-Bot/issues/3) in [CommunityOfCoders/Inheritance-Bot](https://github.com/CommunityOfCoders/Inheritance-Bot)
-2. 🗣 Commented on [#91](https://github.com/JuliaCollections/OrderedCollections.jl/issues/91) in [JuliaCollections/OrderedCollections.jl](https://github.com/JuliaCollections/OrderedCollections.jl)
-3. 🗣 Commented on [#811](https://github.com/JuliaCollections/DataStructures.jl/issues/811) in [JuliaCollections/DataStructures.jl](https://github.com/JuliaCollections/DataStructures.jl)
-4. 🗣 Commented on [#811](https://github.com/JuliaCollections/DataStructures.jl/issues/811) in [JuliaCollections/DataStructures.jl](https://github.com/JuliaCollections/DataStructures.jl)
+1. ❗️ Closed issue [#3](https://github.com/CommunityOfCoders/Inheritance-Bot/issues/3) in [CommunityOfCoders/Inheritance-Bot](https://github.com/CommunityOfCoders/Inheritance-Bot)
+2. 🗣 Commented on [#3](https://github.com/CommunityOfCoders/Inheritance-Bot/issues/3) in [CommunityOfCoders/Inheritance-Bot](https://github.com/CommunityOfCoders/Inheritance-Bot)
+3. ❗️ Opened issue [#3](https://github.com/CommunityOfCoders/Inheritance-Bot/issues/3) in [CommunityOfCoders/Inheritance-Bot](https://github.com/CommunityOfCoders/Inheritance-Bot)
+4. 🗣 Commented on [#91](https://github.com/JuliaCollections/OrderedCollections.jl/issues/91) in [JuliaCollections/OrderedCollections.jl](https://github.com/JuliaCollections/OrderedCollections.jl)
 5. 🗣 Commented on [#811](https://github.com/JuliaCollections/DataStructures.jl/issues/811) in [JuliaCollections/DataStructures.jl](https://github.com/JuliaCollections/DataStructures.jl)
 <!--END_SECTION:activity-->
 
