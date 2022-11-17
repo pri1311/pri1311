@@ -3,9 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pri1311&label=Profile%20views&color=0e75b6&style=flat" alt="pri1311" /> </p>
   
 
-- 🍀 Third Year BTech Computer Engineering student.<br/>  
-  
-- ✨ Passionate about AI/ML in healthcare.<br/>
+- 🍀 Final Year BTech Computer Engineering student.<br/>  
 	
 - 💻 Currently working on [UWM-GI-Tract-Image-Segmentation](https://github.com/pri1311/UWM-GI-Tract-Image-Segmentation).<br/>
 
