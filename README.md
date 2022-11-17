@@ -40,10 +40,10 @@
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#205](https://github.com/FluxML/Metalhead.jl/issues/205) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
-2. 💪 Opened PR [#205](https://github.com/FluxML/Metalhead.jl/pull/205) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
-3. 🗣 Commented on [#196](https://github.com/FluxML/Metalhead.jl/issues/196) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
+2. 🗣 Commented on [#205](https://github.com/FluxML/Metalhead.jl/issues/205) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
+3. 💪 Opened PR [#205](https://github.com/FluxML/Metalhead.jl/pull/205) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
 4. 🗣 Commented on [#196](https://github.com/FluxML/Metalhead.jl/issues/196) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
-5. 🗣 Commented on [#94](https://github.com/JuliaCollections/OrderedCollections.jl/issues/94) in [JuliaCollections/OrderedCollections.jl](https://github.com/JuliaCollections/OrderedCollections.jl)
+5. 🗣 Commented on [#196](https://github.com/FluxML/Metalhead.jl/issues/196) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
 <!--END_SECTION:activity-->
 
 
