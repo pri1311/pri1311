@@ -37,11 +37,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6435](https://github.com/pytorch/vision/issues/6435) in [pytorch/vision](https://github.com/pytorch/vision)
+1. 💪 Opened PR [#6960](https://github.com/pytorch/vision/pull/6960) in [pytorch/vision](https://github.com/pytorch/vision)
 2. 🗣 Commented on [#6435](https://github.com/pytorch/vision/issues/6435) in [pytorch/vision](https://github.com/pytorch/vision)
 3. 🗣 Commented on [#6435](https://github.com/pytorch/vision/issues/6435) in [pytorch/vision](https://github.com/pytorch/vision)
-4. 🗣 Commented on [#192](https://github.com/FluxML/Flux.jl/issues/192) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-5. 🗣 Commented on [#205](https://github.com/FluxML/Metalhead.jl/issues/205) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
+4. 🗣 Commented on [#6435](https://github.com/pytorch/vision/issues/6435) in [pytorch/vision](https://github.com/pytorch/vision)
+5. 🗣 Commented on [#192](https://github.com/FluxML/Flux.jl/issues/192) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
 <!--END_SECTION:activity-->
 
 
