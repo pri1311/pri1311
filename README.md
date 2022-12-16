@@ -37,11 +37,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/pri1311/crunch/pull/3) in [pri1311/crunch](https://github.com/pri1311/crunch)
-2. 💪 Opened PR [#3](https://github.com/pri1311/crunch/pull/3) in [pri1311/crunch](https://github.com/pri1311/crunch)
-3. ❗️ Closed issue [#1](https://github.com/pri1311/crunch/issues/1) in [pri1311/crunch](https://github.com/pri1311/crunch)
-4. 🎉 Merged PR [#2](https://github.com/pri1311/crunch/pull/2) in [pri1311/crunch](https://github.com/pri1311/crunch)
-5. 💪 Opened PR [#2](https://github.com/pri1311/crunch/pull/2) in [pri1311/crunch](https://github.com/pri1311/crunch)
+1. 🗣 Commented on [#6960](https://github.com/pytorch/vision/issues/6960) in [pytorch/vision](https://github.com/pytorch/vision)
+2. 🎉 Merged PR [#3](https://github.com/pri1311/crunch/pull/3) in [pri1311/crunch](https://github.com/pri1311/crunch)
+3. 💪 Opened PR [#3](https://github.com/pri1311/crunch/pull/3) in [pri1311/crunch](https://github.com/pri1311/crunch)
+4. ❗️ Closed issue [#1](https://github.com/pri1311/crunch/issues/1) in [pri1311/crunch](https://github.com/pri1311/crunch)
+5. 🎉 Merged PR [#2](https://github.com/pri1311/crunch/pull/2) in [pri1311/crunch](https://github.com/pri1311/crunch)
 <!--END_SECTION:activity-->
 
 
