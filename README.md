@@ -37,11 +37,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2096](https://github.com/kornia/kornia/pull/2096) in [kornia/kornia](https://github.com/kornia/kornia)
-2. 🗣 Commented on [#4588](https://github.com/pyg-team/pytorch_geometric/issues/4588) in [pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric)
-3. 🗣 Commented on [#6960](https://github.com/pytorch/vision/issues/6960) in [pytorch/vision](https://github.com/pytorch/vision)
-4. 🎉 Merged PR [#3](https://github.com/pri1311/crunch/pull/3) in [pri1311/crunch](https://github.com/pri1311/crunch)
-5. 💪 Opened PR [#3](https://github.com/pri1311/crunch/pull/3) in [pri1311/crunch](https://github.com/pri1311/crunch)
+1. 🗣 Commented on [#206](https://github.com/FluxML/Metalhead.jl/issues/206) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
+2. 💪 Opened PR [#2096](https://github.com/kornia/kornia/pull/2096) in [kornia/kornia](https://github.com/kornia/kornia)
+3. 🗣 Commented on [#4588](https://github.com/pyg-team/pytorch_geometric/issues/4588) in [pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric)
+4. 🗣 Commented on [#6960](https://github.com/pytorch/vision/issues/6960) in [pytorch/vision](https://github.com/pytorch/vision)
+5. 🎉 Merged PR [#3](https://github.com/pri1311/crunch/pull/3) in [pri1311/crunch](https://github.com/pri1311/crunch)
 <!--END_SECTION:activity-->
 
 
