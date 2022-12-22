@@ -37,11 +37,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#206](https://github.com/FluxML/Metalhead.jl/issues/206) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
-2. 🗣 Commented on [#6960](https://github.com/pytorch/vision/issues/6960) in [pytorch/vision](https://github.com/pytorch/vision)
-3. 🗣 Commented on [#124](https://github.com/JuliaStats/Distributions.jl/issues/124) in [JuliaStats/Distributions.jl](https://github.com/JuliaStats/Distributions.jl)
-4. 🗣 Commented on [#206](https://github.com/FluxML/Metalhead.jl/issues/206) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
-5. 💪 Opened PR [#2096](https://github.com/kornia/kornia/pull/2096) in [kornia/kornia](https://github.com/kornia/kornia)
+1. 🗣 Commented on [#1158](https://github.com/kornia/kornia/issues/1158) in [kornia/kornia](https://github.com/kornia/kornia)
+2. 🗣 Commented on [#206](https://github.com/FluxML/Metalhead.jl/issues/206) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
+3. 🗣 Commented on [#6960](https://github.com/pytorch/vision/issues/6960) in [pytorch/vision](https://github.com/pytorch/vision)
+4. 🗣 Commented on [#124](https://github.com/JuliaStats/Distributions.jl/issues/124) in [JuliaStats/Distributions.jl](https://github.com/JuliaStats/Distributions.jl)
+5. 🗣 Commented on [#206](https://github.com/FluxML/Metalhead.jl/issues/206) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
 <!--END_SECTION:activity-->
 
 
