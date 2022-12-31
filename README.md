@@ -37,11 +37,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1601](https://github.com/SciML/OrdinaryDiffEq.jl/issues/1601) in [SciML/OrdinaryDiffEq.jl](https://github.com/SciML/OrdinaryDiffEq.jl)
-2. 💪 Opened PR [#1656](https://github.com/JuliaStats/Distributions.jl/pull/1656) in [JuliaStats/Distributions.jl](https://github.com/JuliaStats/Distributions.jl)
-3. 🗣 Commented on [#1601](https://github.com/JuliaStats/Distributions.jl/issues/1601) in [JuliaStats/Distributions.jl](https://github.com/JuliaStats/Distributions.jl)
-4. 🗣 Commented on [#1654](https://github.com/JuliaStats/Distributions.jl/issues/1654) in [JuliaStats/Distributions.jl](https://github.com/JuliaStats/Distributions.jl)
-5. 💪 Opened PR [#1654](https://github.com/JuliaStats/Distributions.jl/pull/1654) in [JuliaStats/Distributions.jl](https://github.com/JuliaStats/Distributions.jl)
+1. 🗣 Commented on [#1431](https://github.com/FluxML/Flux.jl/issues/1431) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+2. ❗️ Closed issue [#91563](https://github.com/pytorch/pytorch/issues/91563) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+3. ❗️ Opened issue [#91563](https://github.com/pytorch/pytorch/issues/91563) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+4. 🗣 Commented on [#1431](https://github.com/FluxML/Flux.jl/issues/1431) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+5. 🗣 Commented on [#1601](https://github.com/SciML/OrdinaryDiffEq.jl/issues/1601) in [SciML/OrdinaryDiffEq.jl](https://github.com/SciML/OrdinaryDiffEq.jl)
 <!--END_SECTION:activity-->
 
 
