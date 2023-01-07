@@ -37,11 +37,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#210](https://github.com/FluxML/Metalhead.jl/issues/210) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
-2. 🗣 Commented on [#1431](https://github.com/FluxML/Flux.jl/issues/1431) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
-3. ❗️ Closed issue [#91563](https://github.com/pytorch/pytorch/issues/91563) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-4. ❗️ Opened issue [#91563](https://github.com/pytorch/pytorch/issues/91563) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-5. 🗣 Commented on [#1431](https://github.com/FluxML/Flux.jl/issues/1431) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+1. 💪 Opened PR [#253](https://github.com/CarloLucibello/GraphNeuralNetworks.jl/pull/253) in [CarloLucibello/GraphNeuralNetworks.jl](https://github.com/CarloLucibello/GraphNeuralNetworks.jl)
+2. 🗣 Commented on [#210](https://github.com/FluxML/Metalhead.jl/issues/210) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
+3. 🗣 Commented on [#1431](https://github.com/FluxML/Flux.jl/issues/1431) in [FluxML/Flux.jl](https://github.com/FluxML/Flux.jl)
+4. ❗️ Closed issue [#91563](https://github.com/pytorch/pytorch/issues/91563) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+5. ❗️ Opened issue [#91563](https://github.com/pytorch/pytorch/issues/91563) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
 <!--END_SECTION:activity-->
 
 
