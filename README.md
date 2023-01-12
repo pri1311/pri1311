@@ -37,11 +37,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7295](https://github.com/cupy/cupy/pull/7295) in [cupy/cupy](https://github.com/cupy/cupy)
-2. 🗣 Commented on [#210](https://github.com/FluxML/Metalhead.jl/issues/210) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
-3. 🗣 Commented on [#960](https://github.com/keras-team/keras-cv/issues/960) in [keras-team/keras-cv](https://github.com/keras-team/keras-cv)
-4. 💪 Opened PR [#2130](https://github.com/kornia/kornia/pull/2130) in [kornia/kornia](https://github.com/kornia/kornia)
-5. 💪 Opened PR [#253](https://github.com/CarloLucibello/GraphNeuralNetworks.jl/pull/253) in [CarloLucibello/GraphNeuralNetworks.jl](https://github.com/CarloLucibello/GraphNeuralNetworks.jl)
+1. 🗣 Commented on [#210](https://github.com/FluxML/Metalhead.jl/issues/210) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
+2. 💪 Opened PR [#7295](https://github.com/cupy/cupy/pull/7295) in [cupy/cupy](https://github.com/cupy/cupy)
+3. 🗣 Commented on [#210](https://github.com/FluxML/Metalhead.jl/issues/210) in [FluxML/Metalhead.jl](https://github.com/FluxML/Metalhead.jl)
+4. 🗣 Commented on [#960](https://github.com/keras-team/keras-cv/issues/960) in [keras-team/keras-cv](https://github.com/keras-team/keras-cv)
+5. 💪 Opened PR [#2130](https://github.com/kornia/kornia/pull/2130) in [kornia/kornia](https://github.com/kornia/kornia)
 <!--END_SECTION:activity-->
 
 
