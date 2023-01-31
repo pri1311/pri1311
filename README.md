@@ -38,10 +38,10 @@
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6960](https://github.com/pytorch/vision/issues/6960) in [pytorch/vision](https://github.com/pytorch/vision)
-2. 🗣 Commented on [#7295](https://github.com/cupy/cupy/issues/7295) in [cupy/cupy](https://github.com/cupy/cupy)
+2. 🗣 Commented on [#6960](https://github.com/pytorch/vision/issues/6960) in [pytorch/vision](https://github.com/pytorch/vision)
 3. 🗣 Commented on [#7295](https://github.com/cupy/cupy/issues/7295) in [cupy/cupy](https://github.com/cupy/cupy)
-4. 💪 Opened PR [#2150](https://github.com/kornia/kornia/pull/2150) in [kornia/kornia](https://github.com/kornia/kornia)
-5. 🗣 Commented on [#253](https://github.com/CarloLucibello/GraphNeuralNetworks.jl/issues/253) in [CarloLucibello/GraphNeuralNetworks.jl](https://github.com/CarloLucibello/GraphNeuralNetworks.jl)
+4. 🗣 Commented on [#7295](https://github.com/cupy/cupy/issues/7295) in [cupy/cupy](https://github.com/cupy/cupy)
+5. 💪 Opened PR [#2150](https://github.com/kornia/kornia/pull/2150) in [kornia/kornia](https://github.com/kornia/kornia)
 <!--END_SECTION:activity-->
 
 
