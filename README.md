@@ -37,11 +37,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6960](https://github.com/pytorch/vision/issues/6960) in [pytorch/vision](https://github.com/pytorch/vision)
+1. 🗣 Commented on [#7295](https://github.com/cupy/cupy/issues/7295) in [cupy/cupy](https://github.com/cupy/cupy)
 2. 🗣 Commented on [#6960](https://github.com/pytorch/vision/issues/6960) in [pytorch/vision](https://github.com/pytorch/vision)
-3. 🗣 Commented on [#7295](https://github.com/cupy/cupy/issues/7295) in [cupy/cupy](https://github.com/cupy/cupy)
+3. 🗣 Commented on [#6960](https://github.com/pytorch/vision/issues/6960) in [pytorch/vision](https://github.com/pytorch/vision)
 4. 🗣 Commented on [#7295](https://github.com/cupy/cupy/issues/7295) in [cupy/cupy](https://github.com/cupy/cupy)
-5. 💪 Opened PR [#2150](https://github.com/kornia/kornia/pull/2150) in [kornia/kornia](https://github.com/kornia/kornia)
+5. 🗣 Commented on [#7295](https://github.com/cupy/cupy/issues/7295) in [cupy/cupy](https://github.com/cupy/cupy)
 <!--END_SECTION:activity-->
 
 
