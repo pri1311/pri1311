@@ -37,11 +37,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7295](https://github.com/cupy/cupy/issues/7295) in [cupy/cupy](https://github.com/cupy/cupy)
+1. 🗣 Commented on [#189](https://github.com/CarloLucibello/GraphNeuralNetworks.jl/issues/189) in [CarloLucibello/GraphNeuralNetworks.jl](https://github.com/CarloLucibello/GraphNeuralNetworks.jl)
 2. 🗣 Commented on [#7295](https://github.com/cupy/cupy/issues/7295) in [cupy/cupy](https://github.com/cupy/cupy)
-3. 🗣 Commented on [#6960](https://github.com/pytorch/vision/issues/6960) in [pytorch/vision](https://github.com/pytorch/vision)
+3. 🗣 Commented on [#7295](https://github.com/cupy/cupy/issues/7295) in [cupy/cupy](https://github.com/cupy/cupy)
 4. 🗣 Commented on [#6960](https://github.com/pytorch/vision/issues/6960) in [pytorch/vision](https://github.com/pytorch/vision)
-5. 🗣 Commented on [#7295](https://github.com/cupy/cupy/issues/7295) in [cupy/cupy](https://github.com/cupy/cupy)
+5. 🗣 Commented on [#6960](https://github.com/pytorch/vision/issues/6960) in [pytorch/vision](https://github.com/pytorch/vision)
 <!--END_SECTION:activity-->
 
 
