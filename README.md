@@ -37,10 +37,10 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7474](https://github.com/cupy/cupy/pull/7474) in [cupy/cupy](https://github.com/cupy/cupy)
-2. 🗣 Commented on [#7465](https://github.com/cupy/cupy/issues/7465) in [cupy/cupy](https://github.com/cupy/cupy)
-3. 🗣 Commented on [#189](https://github.com/CarloLucibello/GraphNeuralNetworks.jl/issues/189) in [CarloLucibello/GraphNeuralNetworks.jl](https://github.com/CarloLucibello/GraphNeuralNetworks.jl)
-4. 🗣 Commented on [#7295](https://github.com/cupy/cupy/issues/7295) in [cupy/cupy](https://github.com/cupy/cupy)
+1. 🗣 Commented on [#7465](https://github.com/cupy/cupy/issues/7465) in [cupy/cupy](https://github.com/cupy/cupy)
+2. 💪 Opened PR [#7474](https://github.com/cupy/cupy/pull/7474) in [cupy/cupy](https://github.com/cupy/cupy)
+3. 🗣 Commented on [#7465](https://github.com/cupy/cupy/issues/7465) in [cupy/cupy](https://github.com/cupy/cupy)
+4. 🗣 Commented on [#189](https://github.com/CarloLucibello/GraphNeuralNetworks.jl/issues/189) in [CarloLucibello/GraphNeuralNetworks.jl](https://github.com/CarloLucibello/GraphNeuralNetworks.jl)
 5. 🗣 Commented on [#7295](https://github.com/cupy/cupy/issues/7295) in [cupy/cupy](https://github.com/cupy/cupy)
 <!--END_SECTION:activity-->
 
