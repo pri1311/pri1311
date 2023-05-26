@@ -39,9 +39,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7508](https://github.com/cupy/cupy/issues/7508) in [cupy/cupy](https://github.com/cupy/cupy)
 2. 🗣 Commented on [#7508](https://github.com/cupy/cupy/issues/7508) in [cupy/cupy](https://github.com/cupy/cupy)
-3. 💪 Opened PR [#7531](https://github.com/cupy/cupy/pull/7531) in [cupy/cupy](https://github.com/cupy/cupy)
-4. 🗣 Commented on [#7508](https://github.com/cupy/cupy/issues/7508) in [cupy/cupy](https://github.com/cupy/cupy)
-5. 💪 Opened PR [#7508](https://github.com/cupy/cupy/pull/7508) in [cupy/cupy](https://github.com/cupy/cupy)
+3. 🗣 Commented on [#7508](https://github.com/cupy/cupy/issues/7508) in [cupy/cupy](https://github.com/cupy/cupy)
+4. 💪 Opened PR [#7531](https://github.com/cupy/cupy/pull/7531) in [cupy/cupy](https://github.com/cupy/cupy)
+5. 🗣 Commented on [#7508](https://github.com/cupy/cupy/issues/7508) in [cupy/cupy](https://github.com/cupy/cupy)
 <!--END_SECTION:activity-->
 
 
