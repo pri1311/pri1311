@@ -17,14 +17,9 @@
 <h3 align="left">Connect with me:</h3>
 <div >
 	<div>
-	  <a href="https://twitter.com/priYaarr" target="blank">
-	    <img src='https://img.shields.io/badge/Twitter-Connect-1DA1F2?style=for-the-badge&logo=twitter'/>
-	  </a>
-	   <a href="https://linkedin.com/in/priya-nagda" target="blank">
+ 	<a href="https://linkedin.com/in/priya-nagda" target="blank">
 	    <img src='https://img.shields.io/badge/Linkedin-Connect-0A66C2?style=for-the-badge&logo=linkedin'/>
 	  </a>
-	</div>
-	<div>
 	  <a href="https://kaggle.com/priyanagda" target="blank">
 	    <img src='https://img.shields.io/badge/Kaggle-Notebooks%20Expert-blue?style=for-the-badge&logo=kaggle'/>
 	  </a>
