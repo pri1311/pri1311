@@ -1,19 +1,3 @@
-<h1 align="center">Hey👋</h1>
-<h3 align="center"><b>Welcome to my Github Page!</></h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pri1311&label=Profile%20views&color=0e75b6&style=flat" alt="pri1311" /> </p>
-  
-
-- 🍀 Final Year BTech Computer Engineering student.<br/>  
-	
-- 💻 Currently working on [UWM-GI-Tract-Image-Segmentation](https://github.com/pri1311/UWM-GI-Tract-Image-Segmentation).<br/>
-
-- 🌱  Exploring **Deep Learning** and **Data Science**.<br/>
-
-- 💬 Ask me about Machine Learning, ReactJs and Flutter(Android).<br/>
-
-- 📫 How to reach me? **nagdapriya13@gmail.com**<br/>
-
-  
 <h3 align="left">Connect with me:</h3>
 <div >
 	<div>
@@ -27,6 +11,7 @@
       <img src='https://img.shields.io/badge/Portfolio-Priya%20Nagda%20-blue?style=for-the-badge'/>
     </a>
 	</div>
+<br>or drop an email @nagdapriya13@gmail.com
 </div>
 
 
@@ -95,8 +80,6 @@
 
 
 <div>
-	<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pri1311&hide=prs,issues&count_private=true&show_icons=true&locale=en" alt="pri1311" /></p>
-	<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pri1311&" alt="pri1311" /></p>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pri1311&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,HTML,CSS,EJS" alt="pri1311" /></p>
 </div>
 <br/>
