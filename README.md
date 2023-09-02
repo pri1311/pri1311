@@ -17,11 +17,11 @@
 
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2503](https://github.com/kornia/kornia/pull/2503) in [kornia/kornia](https://github.com/kornia/kornia)
-2. 🗣 Commented on [#2503](https://github.com/kornia/kornia/pull/2503#issuecomment-1666534261) in [kornia/kornia](https://github.com/kornia/kornia)
-3. 💪 Opened PR [#2503](https://github.com/kornia/kornia/pull/2503) in [kornia/kornia](https://github.com/kornia/kornia)
-4. 🗣 Commented on [#99](https://github.com/JuliaCollections/OrderedCollections.jl/issues/99#issuecomment-1666072720) in [JuliaCollections/OrderedCollections.jl](https://github.com/JuliaCollections/OrderedCollections.jl)
-5. 🗣 Commented on [#2494](https://github.com/kornia/kornia/issues/2494#issuecomment-1665958708) in [kornia/kornia](https://github.com/kornia/kornia)
+1. 💪 Opened PR [#728](https://github.com/SciML/NeuralPDE.jl/pull/728) in [SciML/NeuralPDE.jl](https://github.com/SciML/NeuralPDE.jl)
+2. ❌ Closed PR [#2503](https://github.com/kornia/kornia/pull/2503) in [kornia/kornia](https://github.com/kornia/kornia)
+3. 🗣 Commented on [#2503](https://github.com/kornia/kornia/pull/2503#issuecomment-1666534261) in [kornia/kornia](https://github.com/kornia/kornia)
+4. 💪 Opened PR [#2503](https://github.com/kornia/kornia/pull/2503) in [kornia/kornia](https://github.com/kornia/kornia)
+5. 🗣 Commented on [#99](https://github.com/JuliaCollections/OrderedCollections.jl/issues/99#issuecomment-1666072720) in [JuliaCollections/OrderedCollections.jl](https://github.com/JuliaCollections/OrderedCollections.jl)
 <!--END_SECTION:activity-->
 
 <br>
